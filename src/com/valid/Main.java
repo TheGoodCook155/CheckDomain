@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    //TODO find the percentage of domains that does not exist
+    //TODO find the percentage of domains that do not exist
 
     static Writer writer;
     private Path path1;
